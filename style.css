@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    
+}
+header img {
+    width: 120px;
+    height: 120px;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+.ayubxon {
+    width: 1000px;
+   border-radius: 30px;
+   text-align: center;
+}
+main ul {
+    border-radius: 20px;
+    border: 10px double white;
+    }
+    .ayub {
+        width: 500px;
+    }
+    .yusufxon {
+        text-align: center;
+    }
+    h1 p {
+        color: gold;
+    }
